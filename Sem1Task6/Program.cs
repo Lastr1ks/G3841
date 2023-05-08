@@ -8,10 +8,11 @@ string? inputNum = Console.ReadLine();
 //проверяем чтобы данные были не пустыми
 if (inputNum != null)
 {
-//парсим введенное число
+    //парсим введенное число
     int number = int.Parse(inputNum);
+
     //проверяем на четность
-    if (number%2==0)
+    if (number % 2 == 0)
     {
         //Выводим результат в консоль
         Console.WriteLine("Число четное!");
@@ -19,6 +20,6 @@ if (inputNum != null)
     else
     {
         //Выводим результат в консоль
-        Console.WriteLine("Число НЕ четное!"); 
+        Console.WriteLine("Число НЕ четное!");
     }
 }
