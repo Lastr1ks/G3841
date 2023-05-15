@@ -37,5 +37,3 @@ string LineBuilder(int number, int pow)
   
     return res;
 }
-
-

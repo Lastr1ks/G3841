@@ -18,6 +18,7 @@ int ReadData(string msg)
 
 //Метод определяет четверть по координатам точки
 void PrintQuterTest()
+
 {
     if (coordX > 0 && coordY > 0) Console.WriteLine("Точка в четверти 1");
     if (coordX > 0 && coordY < 0) Console.WriteLine("Точка в четверти 2");
