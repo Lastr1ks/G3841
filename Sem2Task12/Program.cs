@@ -5,7 +5,7 @@
 // некратно первому, то программа выводит остаток от
 // деления. 
 
-//Вариант 1 
+//Вариант  1 
 
 int num1 = int.Parse(Console.ReadLine()??"0");
 int num2 = int.Parse(Console.ReadLine()??"0");

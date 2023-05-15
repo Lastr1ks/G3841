@@ -22,6 +22,7 @@
 //     Console.WriteLine("Цифра 2 больше цифры 1: " + digit1 + " " + digit2);
 // }
 
+
 //Вариант 2
 System.Random numSintezator = new System.Random();
 

@@ -3,7 +3,7 @@
 // трёхзначное число и удаляет вторую цифру этого
 // числа. 
 
-//Вариант 1
+//Вариант  1
 // System.Random numSintezator = new System.Random();
 
 // char[] digits = numSintezator.Next(100,1000).ToString().ToCharArray();

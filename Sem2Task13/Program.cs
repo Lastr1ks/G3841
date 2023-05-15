@@ -4,7 +4,7 @@
 //Проверка длинны числа и запись его в Length
 string orgNumber=Console.ReadLine();
 int Length = orgNumber.Length;
-//Проверка на 0 и преобразование string в int
+//Проверка на  0 и преобразование string в int
 int number = int.Parse(orgNumber??"0");
 
 
